@@ -13,7 +13,4 @@ DFDES5F6MG
 J25AB2JMVY
 
 cd "C:\Users\chris\Desktop\CMS DotNet WebHooks\ngrok" 
-ngrok  http localhost:5000
-
-
-https://localhost:7253
+ngrok  http localhost:7253
