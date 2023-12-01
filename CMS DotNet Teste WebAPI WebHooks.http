@@ -1,0 +1,6 @@
+@CMS_DotNet_Teste_WebAPI_WebHooks_HostAddress = http://localhost:5063
+
+GET {{CMS_DotNet_Teste_WebAPI_WebHooks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
